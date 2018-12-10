@@ -7,8 +7,8 @@ regExps = {
 "exercise_6": /class=['"].+['"]/
 };
 cssSelectors = {
-"exercise_1": "css",
-"exercise_2": "css",
+"exercise_1": "[name=3-2]",
+"exercise_2": "[name=4-1] *, [name=4-2] *",
 "exercise_3": "css",
 "exercise_4": "css",
 "exercise_5": "css",
