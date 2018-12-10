@@ -9,10 +9,10 @@ regExps = {
 cssSelectors = {
 "exercise_1": "css > item > java",
 "exercise_2": "#diffId *, #diffId2 *",
-"exercise_3": "css",
-"exercise_4": "css",
-"exercise_5": "css",
-"exercise_6": "css",
-"exercise_7": "css",
-"exercise_8": "css"
+"exercise_3": "css > item > java > tag",
+"exercise_4": "css > item:nth-child(3)",
+"exercise_5": "css > item > tag > :nth-child(2)",
+"exercise_6": "css > item > item > item > item > item",
+"exercise_7": "css > different > #diffId2 > :last-Child",
+"exercise_8": "css > nth-child(2)"
 };
